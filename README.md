@@ -33,7 +33,7 @@ This project is a part of Udacity Data Science Nanodegree
 
 * I’m going to analyze Starbuck’s Dataset for example: General overview of Starbucks customers including there ages , income and genders.
 
-* Bulid model to Predict if a customer would view then complete an offer or no. 
+* Build model to Predict if a customer would view then complete an offer or no. 
 
 
 ### 3. Motivation<a name="Motivation"></a>
