@@ -1,7 +1,7 @@
 # Starbuck-s-Data-Analysis-Capstone-Project-
 
-This project is a part of Udacity Data Science Nanodegree
-published post on medium [here](https://medium.com/@aalboughbar/starbuck-s-data-analysis-capstone-project-4955e4f217d )
+* This project is a part of Udacity Data Science Nanodegree.
+* published post on medium [here](https://medium.com/@aalboughbar/starbuck-s-data-analysis-capstone-project-4955e4f217d )
 
 ### Table of Contents
 
